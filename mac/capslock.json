@@ -222,9 +222,9 @@
           },
           "to": [
             {
-              "key_code": "a",
+              "key_code": "left_arrow",
               "modifiers": [
-                "left_control"
+                "left_command"
               ]
             }
           ],
@@ -245,10 +245,10 @@
           },
           "to": [
             {
-              "key_code": "a",
+              "key_code": "left_arrow",
               "modifiers": [
                 "left_shift",
-                "left_control"
+                "left_command"
               ]
             }
           ],
@@ -268,9 +268,9 @@
           },
           "to": [
             {
-              "key_code": "d",
+              "key_code": "right_arrow",
               "modifiers": [
-                "left_control"
+                "left_command"
               ]
             }
           ],
@@ -291,10 +291,10 @@
           },
           "to": [
             {
-              "key_code": "d",
+              "key_code": "right_arrow",
               "modifiers": [
                 "left_shift",
-                "left_control"
+                "left_command"
               ]
             }
           ],
